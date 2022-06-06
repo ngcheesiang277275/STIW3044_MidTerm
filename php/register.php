@@ -57,7 +57,7 @@ function uploadImage($filename)
   <body>
     <!-- Top navigation bar -->
       <div class="w3-bar w3-black w3-padding-16" id="navBar">
-        <a href="index.php" class="w3-bar-item w3-button w3-wide ">
+        <a href="index.html" class="w3-bar-item w3-button w3-wide ">
           <b>MY Tutor</b></a
         <!-- Right-sided navbar links -->
         <div class="w3-right">
